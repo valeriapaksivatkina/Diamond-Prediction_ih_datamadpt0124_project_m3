@@ -2,18 +2,18 @@
 
 Este repositorio contiene el código y los datos para la participación en la Diamond Price Prediction Challenge. Inspirada en el fascinante mundo de los diamantes, su valoración y los factores que influyen en sus precios de mercado, esta competencia requiere desarrollar un modelo predictivo que estime con precisión el precio de los diamantes basado en diversas características. 
 
-#Métrica de Evaluación
+# Métrica de Evaluación
 La métrica de evaluación elegida para esta competencia es el RMSE (Root Mean Squared Error). Más información aquí.
 
-#Datos
+# Datos
 En esta sección se proporcionan los datos necesarios para entrenar el modelo y una descripción detallada de las características.
 
-#Archivos
+# Archivos
 diamonds_train.db - El conjunto de entrenamiento
 diamonds_test.csv - El conjunto de prueba
 sample_submission.csv - Un archivo de muestra de envío en el formato correcto
 
-#Características
+# Características
 price: Precio en USD
 carat: Peso del diamante
 cut: Calidad del corte (Fair, Good, Very Good, Premium, Ideal)
@@ -27,7 +27,7 @@ table: Anchura de la parte superior del diamante en relación con el punto más 
 city: Ciudad donde se reporta la venta del diamante
 id: Solo para archivos de prueba y de envío de muestra, ID para la identificación de la muestra de predicción
 
-#Modelo e Hiperparámetros
+# Modelo e Hiperparámetros
 
 El modelo utilizado es XGBRegressor con Dmatrices para manejar valores categóricos. Los mejores hiperparámetros identificados son los siguientes:
 
