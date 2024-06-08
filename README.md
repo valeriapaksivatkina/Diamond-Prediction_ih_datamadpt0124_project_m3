@@ -3,7 +3,7 @@
 Este repositorio contiene el código y los datos para la participación en la Diamond Price Prediction Challenge. Inspirada en el fascinante mundo de los diamantes, su valoración y los factores que influyen en sus precios de mercado, esta competencia requiere desarrollar un modelo predictivo que estime con precisión el precio de los diamantes basado en diversas características. 
 
 # Métrica de Evaluación
-La métrica de evaluación elegida para esta competencia es el RMSE (Root Mean Squared Error). Más información aquí.
+La métrica de evaluación elegida para esta competencia es el RMSE (Root Mean Squared Error). 
 
 # Datos
 En esta sección se proporcionan los datos necesarios para entrenar el modelo y una descripción detallada de las características.
