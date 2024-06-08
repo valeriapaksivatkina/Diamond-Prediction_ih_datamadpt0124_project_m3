@@ -18,17 +18,29 @@ sample_submission.csv - Un archivo de muestra de envío en el formato correcto
 # Características
 
 price: Precio en USD
+
 carat: Peso del diamante
+
 cut: Calidad del corte (Fair, Good, Very Good, Premium, Ideal)
+
 color: Color del diamante, desde J (peor) hasta D (mejor)
+
 clarity: Medida de claridad del diamante (I1 (peor), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (mejor))
+
 x: Longitud en mm
+
 y: Anchura en mm
+
 z: Profundidad en mm
+
 depth: Porcentaje de profundidad total
+
 table: Anchura de la parte superior del diamante en relación con el punto más ancho
+
 city: Ciudad donde se reporta la venta del diamante
+
 id: Solo para archivos de prueba y de envío de muestra, ID para la identificación de la muestra de predicción
+
 
 # Modelo e Hiperparámetros
 
